@@ -121,8 +121,8 @@ Hasil <br>
 
 ### Mengubah Data
 <img width="913" height="391" alt="update data" src="https://github.com/user-attachments/assets/2fcbef7c-de5f-4dab-81fb-e45a5d2b1b96" />
-
-hasil
+<br>
+hasil<br>
 <img width="897" height="106" alt="hasil update" src="https://github.com/user-attachments/assets/ea652936-33c5-4a11-9627-0c249c729893" />
 
 ### Mencari Data
