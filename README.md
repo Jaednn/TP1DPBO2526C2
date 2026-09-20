@@ -1,4 +1,4 @@
-# Janji
+<img width="897" height="106" alt="hasil update" src="https://github.com/user-attachments/assets/aad4bd10-db52-4990-807c-bb807c87d4b5" /># Janji
 Saya Afzaal Zaidan Febryanto dengan NIM 2508692 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Penjelasan Desain
@@ -46,12 +46,13 @@ Setiap program diisi otomatis dengan 6 data film contoh saat pertama kali dijala
 
 ### Menampilkan semua Data
 <img width="437" height="860" alt="Tampil Data Cpp" src="https://github.com/user-attachments/assets/b59c1aaa-1fd3-4ca8-99d3-c2b00964e04c" />
+<br>
 <img width="353" height="257" alt="Tampil Data 2 Cpp" src="https://github.com/user-attachments/assets/627caa70-ba68-4462-bc56-e745ed628669" />
 
 ### Mengubah Data
 <img width="417" height="412" alt="Update Data Cpp" src="https://github.com/user-attachments/assets/d11f28b5-0892-44a0-83c7-9ce79bbb43c9" />
-
-Hasil
+<br>
+Hasil <br>
 <img width="373" height="142" alt="Hasil Update" src="https://github.com/user-attachments/assets/bf21309d-8ce6-4f42-97bf-55b0efe62132" />
 
 ### Mencari Data
@@ -59,8 +60,8 @@ Hasil
 
 ### Mengahpus Data
 <img width="412" height="293" alt="Hapus Data Cpp" src="https://github.com/user-attachments/assets/3b0f1f9a-072c-4f6f-bd9f-5edb195e4c5b" />
-
-Hasil
+<br>
+Hasil <br>
 <img width="493" height="470" alt="Hasil Hapus" src="https://github.com/user-attachments/assets/b220cfd0-09ac-4a36-ba46-4c30241cb2fa" />
 
 ## Python
@@ -69,12 +70,13 @@ Hasil
 
 ### Menampilkan semua Data
 <img width="447" height="575" alt="Tampil Data Py" src="https://github.com/user-attachments/assets/e5be57da-dd54-4b68-bb23-c79a72f21c9c" />
+<br>
 <img width="317" height="523" alt="Tampil Data 2 Py" src="https://github.com/user-attachments/assets/28f51734-8818-406c-8ff4-32f944a8d669" />
 
 ### Mengubah Data
 <img width="425" height="397" alt="Update Data Py" src="https://github.com/user-attachments/assets/579453da-9fbe-43d6-b133-ab15ca33c258" />
-
-Hasil
+<br>
+Hasi l<br>
 <img width="325" height="148" alt="Hasil Update Py" src="https://github.com/user-attachments/assets/578ed41a-275b-4c5b-bfef-95148c6cc2a1" />
 
 ### Mencari Data
@@ -82,8 +84,8 @@ Hasil
 
 ### Mengahpus Data
 <img width="438" height="297" alt="Hapus Data Py" src="https://github.com/user-attachments/assets/eb36b3cd-83cb-452f-9d3b-b66f1f703078" />
-
-Hasil
+<br>
+Hasil <br>
 <img width="376" height="410" alt="Hasil Hapus Py" src="https://github.com/user-attachments/assets/bd070af8-0663-44a6-8e05-4d44f76b5beb" />
 
 ## Java
@@ -92,12 +94,13 @@ Hasil
 
 ### Menampilkan semua Data
 <img width="447" height="581" alt="Tampil Data Java" src="https://github.com/user-attachments/assets/783880df-03ae-4917-90e3-4b21ce965fc4" />
+<br>
 <img width="333" height="522" alt="Tampil Data 2 Java" src="https://github.com/user-attachments/assets/356cbe1a-4975-4d72-a665-60f45a68061d" />
 
 ### Mengubah Data
 <img width="576" height="410" alt="Update Data Java" src="https://github.com/user-attachments/assets/6c1707b1-790a-43ad-b233-dabdabfcb2e1" />
-
-hasil
+<br>
+hasil <br>
 <img width="401" height="387" alt="Hasil Update Java" src="https://github.com/user-attachments/assets/783402e8-c1e1-46de-b36d-6efe65484908" />
 
 ### Mencari Data
@@ -105,8 +108,8 @@ hasil
 
 ### Mengahpus Data
 <img width="462" height="292" alt="Hapus Data Java" src="https://github.com/user-attachments/assets/800eddf6-7539-4064-a639-ec919b05508d" />
-
-Hasil
+<br>
+Hasil <br>
 <img width="302" height="388" alt="Hasil Hapus Java" src="https://github.com/user-attachments/assets/38a8a896-e82f-476f-8a8d-e61281d5034b" />
 
 ## PHP
@@ -128,6 +131,7 @@ hasil
 
 ### Mengahpus Data
 <img width="911" height="365" alt="hapus data" src="https://github.com/user-attachments/assets/8555272b-48ab-44a9-9100-f598962034d9" />
+<br>
 <img width="916" height="120" alt="hasil reset data" src="https://github.com/user-attachments/assets/c51387c1-3d65-4cd8-aed0-426571dd9166" />
 hapus bisa menggunakan tombol hapus disamping data atau menghapus semua data dengan tombol reset
 
