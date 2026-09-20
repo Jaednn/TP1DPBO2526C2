@@ -1,4 +1,4 @@
-<img width="897" height="106" alt="hasil update" src="https://github.com/user-attachments/assets/aad4bd10-db52-4990-807c-bb807c87d4b5" /># Janji
+Janji
 Saya Afzaal Zaidan Febryanto dengan NIM 2508692 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Penjelasan Desain
