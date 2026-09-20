@@ -32,11 +32,11 @@ Seluruh objek Film disimpan dalam satu variabel array/list:
 
 ### Data Dummy
 Setiap program diisi otomatis dengan 6 data film contoh saat pertama kali dijalankan 
-1. Ghost in the Cell — Joko Anwar
-2. Jatuh Cinta Seperti Di Film-Film — Yandy Laurens
-3. Tunggu Aku Sukses — Imanuel Kristo
-4. KKN di Desa Penari — Awi Suryadi
-5. Agak Laen — Muhadkly Acho
-6. Jumbo — Ryan Adriandhy
+1. Ghost in the Cell - Joko Anwar
+2. Jatuh Cinta Seperti Di Film-Film - Yandy Laurens
+3. Tunggu Aku Sukses - Imanuel Kristo
+4. KKN di Desa Penari - Awi Suryadi
+5. Agak Laen - Muhadkly Acho
+6. Jumbo - Ryan Adriandhy
 
 
